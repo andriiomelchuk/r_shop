@@ -1,3 +1,3 @@
 # React shop
 
-[Demo]((https://yargohor.github.io/r_shop)).
+[Demo](https://yargohor.github.io/r_shop).
